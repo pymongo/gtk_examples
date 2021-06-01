@@ -1,0 +1,7 @@
+[package]
+name = "gtk_examples"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+gtk = { git="https://github.com/gtk-rs/gtk3-rs" }
